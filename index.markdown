@@ -45,31 +45,19 @@ __Instructor:__ **Rich Nguyen**
 
 <img src="assets/images/richnguyen.jpeg" height="200" title="Photo" alt="A photo here">  
 
-Office Hours:
-* Mondays 11 am to 12 pm on [Zoom](
-  https://virginia.zoom.us/j/92343596331?pwd=UEJsc2twMFBlMldwRmMxQTJkSmJtZz09&from=addon
-  )
-* Tuesdays 3 pm to 4 pm in Rice 202 
-* Wednesdays 11 am to 12 pm on [Zoom](
-  https://virginia.zoom.us/j/92343596331?pwd=UEJsc2twMFBlMldwRmMxQTJkSmJtZz09&from=addon
-  )
-* Thursdays 3 pm to 4 pm in Rice 202
+* Email: [nn4pj@virginia.edu](mailto:nn4pj@virginia.edu)
 
-Email: [nn4pj@virginia.edu](mailto:nn4pj@virginia.edu)      
-Website: [http://www.cs.virginia.edu/~nn4pj/](http://www.cs.virginia.edu/~nn4pj/) 
+* Website: [http://www.cs.virginia.edu/~nn4pj/](http://www.cs.virginia.edu/~nn4pj/) 
 
 __Instructor:__ **Derrick Stone**
 
 <img src="https://media.licdn.com/dms/image/v2/C4E03AQEP_ZWoqNln2Q/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1564685500133?e=1742428800&v=beta&t=7oL6i3tTgKifcFPYVoXOnrIX2bUByqyROHduYCaakKA" height="200" title="Photo" alt="A photo here">
 
+* Email: [djs6d@virginia.edu](mailto:djs6d@virginia.edu)
 
-Office Hours:
-* Tuesdays 3:30 pm - 4:30 pm in Rice 209
-* Thursdays 3:30 pm - 4:30 pm in Rice 209
-* OR by appointment
+* Website: [https://engineering.virginia.edu/faculty/derrick-stone](https://engineering.virginia.edu/faculty/derrick-stone)
 
 __Teaching Assistants:__ 
-
 
 **Shreyas Mayya**  
 <img src="assets/images/ta_pics/mayya.jpg" height="100">  

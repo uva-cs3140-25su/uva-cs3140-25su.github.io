@@ -8,16 +8,20 @@ The most up-to-date Office Hours Schedule:
 
 ## Professor Office Hours
 
-**Location**: Rice Hall 404
-
+**Prof. Rich Nguyen**
 * Mondays 11 am to 12 pm on [Zoom](
   https://virginia.zoom.us/j/92343596331?pwd=UEJsc2twMFBlMldwRmMxQTJkSmJtZz09&from=addon
   )
-* Tuesdays 11 am to 12 pm in Rice 202
+* Tuesdays 3 pm to 4 pm in Rice 202
 * Wednesdays 11 am to 12 pm on [Zoom](
   https://virginia.zoom.us/j/92343596331?pwd=UEJsc2twMFBlMldwRmMxQTJkSmJtZz09&from=addon
   )
-* Thursdays 11 am to 12 pm in Rice 202
+* Thursdays 3 pm to 4 pm in Rice 202
+
+**Prof. Derrick Stone**
+* Tuesdays 3:30 pm - 4:30 pm in Rice 209
+* Thursdays 3:30 pm - 4:30 pm in Rice 209
+* OR by appointment
 
 ## TA Office Hours
 
@@ -35,8 +39,8 @@ TA Office Hours will *not* be held on days without class (such as Fall Break, El
 
 To get help in TA office hours, join the queue using the following link: https://beta.mydigitalhand.org/
 
-And the course entry code: **S9X1GYZ**
+And the course entry code: **TBD**
 
-Alternatively, you may use the following QR Code:
+Alternatively, you may use the following QR Code:TBD
 
-![cs3140_oh_qr.png](assets/images/cs3140_oh_qr.png)
+[//]: ![cs3140_oh_qr.png](assets/images/cs3140_oh_qr.png)
