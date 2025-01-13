@@ -41,7 +41,7 @@ Be aware that I must act based on what is visible on SIS. As such, if you are st
 The Course add deadline is Jan 31st. If registered students decide to drop the class, I will immediately fill their spots with students waiting to get in!
 
 ## Staff Information
-__Instructor:__ **Prof. Rich Nguyen**
+__Instructor:__ **Rich Nguyen**
 
 <img src="assets/images/richnguyen.jpeg" height="200" title="Photo" alt="A photo here">  
 
@@ -58,7 +58,10 @@ Office Hours:
 Email: [nn4pj@virginia.edu](mailto:nn4pj@virginia.edu)      
 Website: [http://www.cs.virginia.edu/~nn4pj/](http://www.cs.virginia.edu/~nn4pj/) 
 
-__Instructor:__ **Prof. Derrick Stone**
+__Instructor:__ **Derrick Stone**
+
+<img src="https://media.licdn.com/dms/image/v2/C4E03AQEP_ZWoqNln2Q/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1564685500133?e=1742428800&v=beta&t=7oL6i3tTgKifcFPYVoXOnrIX2bUByqyROHduYCaakKA" height="200" title="Photo" alt="A photo here">
+
 
 Office Hours:
 * Tuesdays 3:30 pm - 4:30 pm in Rice 209
