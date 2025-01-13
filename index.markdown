@@ -7,7 +7,7 @@ permalink: /
 ---
 
 # CS 3140 Software Development Essentials
-## Spring 2024
+## Spring 2025
 
 ## Important Links:
 
@@ -19,7 +19,7 @@ permalink: /
 
 ## Lectures
 * Time: Tuesdays and Thursdays @ 9:30 AM - 10:45 AM 
-* Location: McLeod Hall Room 1020
+* Location: Olsson Room 120
 
 ### A note for students on the wait-list
 In consultation with the department, I prioritize some students on the wait list based on need. The priority list is as follows:
@@ -45,15 +45,18 @@ Office Hours:
 * Mondays 11 am to 12 pm on [Zoom](
   https://virginia.zoom.us/j/92343596331?pwd=UEJsc2twMFBlMldwRmMxQTJkSmJtZz09&from=addon
   )
-* Tuesdays 11 am to 12 pm in Rice 202 
+* Tuesdays 3 pm to 4 pm in Rice 202 
 * Wednesdays 11 am to 12 pm on [Zoom](
   https://virginia.zoom.us/j/92343596331?pwd=UEJsc2twMFBlMldwRmMxQTJkSmJtZz09&from=addon
   )
-* Thursdays 11 am to 12 pm in Rice 202
+* Thursdays 3 pm to 4 pm in Rice 202
 
 Email: [nn4pj@virginia.edu](mailto:nn4pj@virginia.edu)      
 Website: [http://www.cs.virginia.edu/~nn4pj/](http://www.cs.virginia.edu/~nn4pj/) 
 
+__Instructor:__ **Prof. Derrick Stone**
+
+Office Hours:
 
 __Teaching Assistants:__ 
 
