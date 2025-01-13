@@ -259,15 +259,13 @@ _There is **no** grading rounding_.
 
 
 Grading in this class will be based one:
-* Homework Assignments (7) - 65%  
+* Homework Assignments (7) - 70%  
 	* 10% each for Homework 1 through 5
-	* 15% for Homework 6
+	* 20% for Homework 6
 * Quizzes (10) - 10%
 	* Must pass at least 8 quizzes for full credit
-* Reflection (1) - 5%
- 	* Evaluation of professionalism practice in the course
-* Midterm (1) - 10%
-* Final Exam (1) - 10%
+* Mastery-based Assessments (4) - 20% (5% each) in lieu of exams
+* Optional final exam (retake up to 3 mastery-based assessments)
 
 There might be some extra credit opportunities.
 
@@ -298,7 +296,7 @@ to deadlines, so students should start early.
 All assignments are designed to be done collaboratively. Assignments have a cap of 3 people.
 Rules on assignment teams:
 
-1. You can only work with a specific person on **4 assignments** or less. You may not work with someone on 5 or more assignments.
+1. You can only work with a specific person up to **3 assignments**. You may not work with someone on 5 or more assignments.
 2. All team members must join that team's Github repository. All assignment work is committed, shared, and submitted via Github.
 3. Everyone on a given team gets the same grade for their assignment. (See Team concerns below)
 4. Once you have added someone to your team, you cannot remove them **for any reason** for that assignment. 
@@ -308,7 +306,7 @@ Rules on assignment teams:
 
 #### Team Declarations
 
-All teams must be declared at least **one week before the due date**. To declare your team, you will complete an assignment on Gradescope called **"HWX - Team Declaration"** where X is the number of the assignment. The document simply requires the names and computing IDs of everyone on the team (as well as their Github name). Example:
+All teams must be declared at least **one week before the due date**. You may team up with other students in your section ONLY. To declare your team, you will complete an assignment on Gradescope called **"HWX - Team Declaration"** where X is the number of the assignment. The document simply requires the names and computing IDs of everyone on the team (as well as their Github name). Example:
 
 ```text
 Aaron A Aaronson: abc2def - Aaron2xSon
@@ -332,7 +330,7 @@ The goal of this class is to leave this class with the programming skills and to
 
 1. It's better to have working code that implements some features than to have non-working code that attempts to implement all features
 2. Submissions that cannot be compiled or executed without crashing **will not receive partial credit**
-3. Start early - in a worst case you'll finish early and have more free time.
+3. Start early - in the worst case you'll finish early and have more free time.
 4. Break the assignment into several individual features. 
    1. Have different people implement each those features in separate classes/files.
    2. Do not have one giant main-class or main-method 
@@ -362,8 +360,7 @@ you will get 80%). All members of an assignment team will get the same late pena
 
 **After 7 days, submissions will no longer be accepted.**
 
-Homework 6 will have a separate late policy - no late submissions after 
-May 5th, at 11:59 p.m. for any reason. 
+Homework 6 will have a separate late policy - no late submissions for any reason. 
    1. This is in order to ensure:
       1. TAs have time to grade the final assignment
       2. Students have time to study for the final exam
@@ -488,28 +485,18 @@ If collaboration is discovered, it will result in all parties involved receiving
 
 ## Exams
 
-### Midterms
+### Mastery-based Exams
 
-There will be one midterm during the course.
+There will be four mastery-based exams during the course, each worth 5% of the course grade.
 
-* Midterm Exam: Thursday, February 29, 2023, in-class
-    * Covers all material from start of class up to and including February 22
-
-If you know you will be absent for an exam, you must let your professor know with at least **1-week's notice**. 
+If you were absent for a mastery-based exam, you will have an opportunity to retake it at the end of the semester.
 
 ### Final Exam
 
-The course final exam is cumulative, covering all material from the semester. There will be an emphasis on material covered after Midterm 2, but all content from the course is considered "fair game."
-
-The final exams scheduled **for all sections**
-
-***FRIDAY, MAY 3rd, 2023*** - 2 p.m. to 5 p.m.
-
-**You must attend the section you are registered for**. Any requests to take the final exam with a different section will be denied regardless of the reason. If you attend the wrong final exam section, your final exam will be given a zero.
+In lieu of the final, you can re-take up to three (3) mastery-based exams and receive an updated grade. 
 
 UVA has strict final exam policies. As such, we cannot grant make-ups or alternative exam time without explicitly permission from and notification to a Dean. As such, we will not give a make-up exam for the following under **any circumstances**:
-
-1. Planned Travel (expect to be in Charlottesville during your exam time.  
+1. Planned Travel (expect to be in Charlottesville during your exam time.)  
 2. Multiple exams within the same time period - This course is in the School of Engineering and Applied Science. As such, we do not have a "maximum number of exams within a 24-hour period policy". We cannot reschedule exams for this reason with explicit, documented accommodations.  
 
 Any requests for make-ups due to illness must be made through your Dean, and we cannot handle them ourselves.
@@ -518,33 +505,9 @@ Exams are **in-person**, closed note, closed book, closed laptop, pencil and pap
 
 ### Exam Rules
 
-Exams are **in-person**, closed note, closed book, closed laptop, pencil and paper. 
+Mastery-based exams are **in-person**, closed note, closed book, closed laptop, pencil and paper. 
 Those with extended time or other accommodations should contact your professor to 
 discuss them during the first two weeks of the class.
-
-Make-up exams due to known conflicts must be scheduled **at least one full calendar week in
-advance**.
-
-If you are unable to attend an exam
-
-### Exam Curves
-
-The exams may be curved at the sole discretion of the professor. The exact
-nature of the curve (if present)) will be determined after the exam is graded. The curve will not benefit
-all students equally. Generally, the curving method used benefit scores closer to the average
-more than it will benefit those whose scores are significantly above or below average.
-
-Scores will never be curved downward. However, not everyone's score is guaranteed to increase
-as a result of the curve.
-
-**The purpose of a curve is to adjust exam scores based on the authentic difficulty of the exam.**
-The curve does not exist to artificially inflate scores.
-
-The curved scores will be posted on Canvas (not Gradescope) usually within 24 hours of the raw
-exam scores being posted.
-
-Regrade requests on Exams that result in points changes will be reflected in the curved scores
-on Canvas. **However, it may take up to one week for curved scores to be updated.**
 
 ## Regrade Requests
 
