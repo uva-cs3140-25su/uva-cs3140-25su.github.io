@@ -15,7 +15,7 @@ nav_order: 2
 
 # Basic Info
 CS 3140
-Spring 2024 Semester   
+Spring 2025 Semester   
 
 Course Website - [https://cs3140.com](https://cs3140.com)
 
@@ -31,16 +31,16 @@ Drive Folder:
 
 
 ## Lecture Sections
-Tuesdays and Thursdays @ 9:30 AM-10:45 AM in McLeod 1020
+Tuesdays and Thursdays @ 11:00 AM-12:15 PM in Olsson 120
 
 
 ## Staff Information
 __Instructor:__ Prof. Rich Nguyen  
 Office Hours:
 * Mondays 11 am to 12 pm on Zoom
-* Tuesdays 1 pm to 2 pm in Rice 202
+* Tuesdays 3 pm to 4 pm in Rice 202
 * Wednesdays 11 am to 12 pm on Zoom
-* Thursdays 1 pm to 2 pm in Rice 202
+* Thursdays 3 pm to 4 pm in Rice 202
 
 Email: [nn4pj@virginia.edu](mailto:nn4pj@virginia.edu)      
 Website: [http://www.cs.virginia.edu/~nn4pj/](http://www.cs.virginia.edu/~nn4pj/) 
