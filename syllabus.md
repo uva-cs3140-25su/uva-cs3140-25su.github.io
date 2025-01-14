@@ -17,33 +17,44 @@ nav_order: 2
 CS 3140
 Spring 2025 Semester   
 
-Course Website - [https://cs3140.com](https://cs3140.com)
+Course Website - [https://uva-cs3140-s25.github.io/](https://uva-cs3140-s25.github.io/)
 
 Course Logistics:
-[https://cs3140.com](https://cs3140.com)
+[https://uva-cs3140-s25.github.io/](https://uva-cs3140-s25.github.io/)
 
 
 Online Textbook:
 [https://sde-course.com](https://sde-course.com)
 
 Drive Folder:
-[https://docs.google.com/spreadsheets/d/1xoBESk3JaqCZyBd0z9AhUyfUBLDrksSfBbp4fRPfZI4/edit?usp=drive_link](https://docs.google.com/spreadsheets/d/1xoBESk3JaqCZyBd0z9AhUyfUBLDrksSfBbp4fRPfZI4/edit?usp=drive_link)
+[https://drive.google.com/drive/folders/15sPjuOqayPiDEXxRKWw2hZC-EZruJ_8w?usp=sharing](https://drive.google.com/drive/folders/15sPjuOqayPiDEXxRKWw2hZC-EZruJ_8w?usp=sharing)
 
 
 ## Lecture Sections
-Tuesdays and Thursdays @ 11:00 AM-12:15 PM in Olsson 120
+* Section 1: Tuesdays and Thursdays @ 11:00 AM-12:15 PM in Olsson Hall, Room 120
+* Section 2: Tuesdays and Thursdays @ 2:00 PM - 3:15 PM in Warner Hall, Room 209
 
 
 ## Staff Information
-__Instructor:__ Prof. Rich Nguyen  
-Office Hours:
-* Mondays 11 am to 12 pm on Zoom
-* Tuesdays 3 pm to 4 pm in Rice 202
-* Wednesdays 11 am to 12 pm on Zoom
-* Thursdays 3 pm to 4 pm in Rice 202
+**Prof. Rich Nguyen**
+* Mondays and Wednesdays 11 am to 12 pm on [Zoom](
+  https://virginia.zoom.us/j/93349649881?pwd=ysPPQT1WjeHGag0FNcRsyybYN6jd7p.1&from=addon
+  )
+* Tuesdays and Thursdays 2:30 pm to 3:30 pm in Rice 202
 
 Email: [nn4pj@virginia.edu](mailto:nn4pj@virginia.edu)      
-Website: [http://www.cs.virginia.edu/~nn4pj/](http://www.cs.virginia.edu/~nn4pj/) 
+Website: [http://www.cs.virginia.edu/~nn4pj/](http://www.cs.virginia.edu/~nn4pj/)
+
+
+**Prof. Derrick Stone**
+* Tuesdays 3:30 pm - 4:30 pm in Rice 209
+* Thursdays 3:30 pm - 4:30 pm in Rice 209
+* OR by appointment
+
+* Email: [djs6d@virginia.edu](mailto:djs6d@virginia.edu)
+
+* Website: [https://engineering.virginia.edu/faculty/derrick-stone](https://engineering.virginia.edu/faculty/derrick-stone)
+
 
 # Course Description
 
@@ -127,8 +138,8 @@ Canvas has links to all other course material.
 This is the website that you are currently on. Here you can find:
 
 - Syllabus (you're looking at it!)
-- [Course Schedule](https://uva-cs3140-sp24.github.io/schedule.html) - if the schedule changes, this is kept up to date
-- [Office Hours Schedule](https://uva-cs3140-sp24.github.io/office_hours.html)
+- [Course Schedule](https://uva-cs3140-s25.github.io/schedule.html) - if the schedule changes, this is kept up to date
+- [Office Hours Schedule](https://uva-cs3140-s25.github.io/office_hours.html)
 
 The schedule and assignments information page will include links to 
 the drive folder for Lecture Notes, Slides, Assignment Write-ups,
