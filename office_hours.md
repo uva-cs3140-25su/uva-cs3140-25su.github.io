@@ -12,11 +12,11 @@ The most up-to-date Office Hours Schedule:
 * Mondays 11 am to 12 pm on [Zoom](
   https://virginia.zoom.us/j/92343596331?pwd=UEJsc2twMFBlMldwRmMxQTJkSmJtZz09&from=addon
   )
-* Tuesdays 2:30 pm to 3:30 pm in Rice 202
+* Tuesdays 3:00 pm to 4:00 pm in Rice 202
 * Wednesdays 11 am to 12 pm on [Zoom](
   https://virginia.zoom.us/j/92343596331?pwd=UEJsc2twMFBlMldwRmMxQTJkSmJtZz09&from=addon
   )
-* Thursdays 2:30 pm to 3:30 pm in Rice 202
+* Thursdays 3:00 pm to 4:00 pm in Rice 202
 
 **Prof. Derrick Stone**
 * Tuesdays 3:30 pm - 4:30 pm in Rice 209
