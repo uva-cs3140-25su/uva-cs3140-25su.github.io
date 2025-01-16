@@ -40,7 +40,7 @@ Drive Folder:
 * Mondays and Wednesdays 11 am to 12 pm on [Zoom](
   https://virginia.zoom.us/j/93349649881?pwd=ysPPQT1WjeHGag0FNcRsyybYN6jd7p.1&from=addon
   )
-* Tuesdays and Thursdays 2:30 pm to 3:30 pm in Rice 202
+* Tuesdays and Thursdays 3:00 pm to 4:00 pm in Rice 202
 
 Email: [nn4pj@virginia.edu](mailto:nn4pj@virginia.edu)      
 Website: [http://www.cs.virginia.edu/~nn4pj/](http://www.cs.virginia.edu/~nn4pj/)
