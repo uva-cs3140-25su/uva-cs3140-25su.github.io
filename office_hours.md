@@ -21,7 +21,7 @@ The most up-to-date Office Hours Schedule:
 **Prof. Derrick Stone**
 * Tuesdays 3:30 pm - 4:30 pm in Rice 209
 * Thursdays 3:30 pm - 4:30 pm in Rice 209
-* OR by appointment
+* OR by Appointment
 
 ## TA Office Hours
 
