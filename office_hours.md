@@ -27,20 +27,11 @@ The most up-to-date Office Hours Schedule:
 
 **Location:** The Stacks (Thornton A-Wing)
 
-* **Mondays:** 9:00 am - 3:30 pm
-* **Tuesdays:** 12:30 pm - 7:00 pm
-* **Wednesdays:** 10:30 am - 12:00 pm AND 1:00 pm - 3:30 pm AND 5:00 pm - 6:30 pm
-* **Thursdays:** 11:00 am - 3:30 pm AND 4:00 pm - 5:30 pm
-* **Fridays:** 9:00 am - 10:30 am AND 2:00 pm - 7:00 pm
+See the calendar listed on the Canvas homepage for days and times:
+https://canvas.its.virginia.edu/courses/131158
 
 TA Office Hours will *not* be held on days without class (such as Fall Break, Election Day, etc.)
 
 ## TA Office Hours Wait List
 
-To get help in TA office hours, join the queue using the following link: https://beta.mydigitalhand.org/
-
-And the course entry code: **TBD**
-
-Alternatively, you may use the following QR Code:TBD
-
-[//]: ![cs3140_oh_qr.png](assets/images/cs3140_oh_qr.png)
+To get help in TA office hours, join the queue using Piazza on Canvas
