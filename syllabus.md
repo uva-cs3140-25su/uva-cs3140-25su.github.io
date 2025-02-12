@@ -130,8 +130,9 @@ Canvas has links to all other course material.
 
 - Links to all other class resources
 - Lecture recordings
-- Quizzes (only Quizzes - Exams are *in-person* pencil and paper)
-- Gradebook (including curved exam scores)
+- Quizzes 
+- Exams
+- Gradebook 
 
 ## Course Website
 
@@ -194,7 +195,7 @@ Every homework assignment will have a document to submit. You will not submit
 any code on Gradescope (your code will be on Github). You will only
 submit PDF documents.
 
-Exams will be graded on Gradescope.
+Exams will be graded on Canvas.
 
 All regrade requests are handled on Gradescope. Please be aware that
 if a regrade request results in a grade change, it can take up to one
@@ -202,13 +203,10 @@ week for that change to be reflected on Canvas's Gradebook, as syncing
 the Gradebook to Gradescope is a very time-consuming process, and we will
 likely only do it once at the *end* of the regrade request period.
 
-Curved exams scores **will not** appear on Gradescope (Gradescope doesn't
-have a feature for this). Curved Exam Scores will be posted on Canvas
-Usually within 24 hours of Raw Exam Scores being posted on Gradescope.
 
 ## Piazza
 
-Piazza @ [https://piazza.com/virginia/spring2024/cs3140sde/home](https://piazza.com/virginia/spring2024/cs3140sde/home)    
+Piazza @ (access through Canvas)
 
 We will be using Piazza for the following:
 
@@ -237,9 +235,7 @@ We will not be using email for:
 * Installation Help (use Piazza or Office Hours)
 * Homework Questions (use Piazza)
 
-_PLEASE_ be patient with us in responding.  We receive A LOT of email and it's easy to get behind. 
-If there is a time-critical nature to your note, please let us know that 
-as well.
+_PLEASE_ be patient with us in responding. 
 
 Emails will generally be responded to within the next two *business* days
 (not including weekends or holidays). If you do not hear back within three
@@ -307,7 +303,7 @@ to deadlines, so students should start early.
 All assignments are designed to be done collaboratively. Assignments have a cap of 3 people.
 Rules on assignment teams:
 
-1. You can only work with a specific person up to **3 assignments**. You may not work with someone on 5 or more assignments.
+1. You can only work with a specific person up to **3 assignments**. You may not work with someone on 4 or more assignments.
 2. All team members must join that team's Github repository. All assignment work is committed, shared, and submitted via Github.
 3. Everyone on a given team gets the same grade for their assignment. (See Team concerns below)
 4. Once you have added someone to your team, you cannot remove them **for any reason** for that assignment. 
@@ -500,25 +496,18 @@ If collaboration is discovered, it will result in all parties involved receiving
 
 There will be four mastery-based exams during the course, each worth 5% of the course grade.
 
-If you were absent for a mastery-based exam, you will have an opportunity to retake it at the end of the semester.
+If you are absent for a mastery-based exam, you will have an opportunity to retake it at the end of the semester.
 
 ### Final Exam
 
-In lieu of the final, you can re-take up to three (3) mastery-based exams and receive an updated grade. 
+In lieu of a final, you can re-take up to three (3) mastery-based exams and receive an updated grade. Retakes can only help your grade.
 
-UVA has strict final exam policies. As such, we cannot grant make-ups or alternative exam time without explicitly permission from and notification to a Dean. As such, we will not give a make-up exam for the following under **any circumstances**:
-1. Planned Travel (expect to be in Charlottesville during your exam time.)  
-2. Multiple exams within the same time period - This course is in the School of Engineering and Applied Science. As such, we do not have a "maximum number of exams within a 24-hour period policy". We cannot reschedule exams for this reason with explicit, documented accommodations.  
-
-Any requests for make-ups due to illness must be made through your Dean, and we cannot handle them ourselves.
-
-Exams are **in-person**, closed note, closed book, closed laptop, pencil and paper. Those with extended time or other accommodations should contact your professor to discuss them during the first two weeks of the class.  
+UVA has strict final exam policies. As such, we cannot grant make-ups or alternative exam time.  
 
 ### Exam Rules
 
-Mastery-based exams are **in-person**, closed note, closed book, closed laptop, pencil and paper. 
-Those with extended time or other accommodations should contact your professor to 
-discuss them during the first two weeks of the class.
+Exams are **in-person**, closed note, closed book. Format will be on Canvas, though instructors may opt to change the exam for everyone to paper and pencil. Those with extended time or other accommodations should schedule proctored exams during the first two weeks of the class.  All exams must be in a proctored setting. Because of the electronic format, screen capture or recording of any part of an exam is expressly forbidden. A student recording exam questions will receive a failing grade for the course and may be referred to Honor. 
+
 
 ## Regrade Requests
 
@@ -555,14 +544,16 @@ to your final course grade, and your regrade request being declined.
 
 ## Attendance
 
-* No attendance will be taken during the live lectures sessions on Tuesdays and Thursdays.
-* In person attendance is required for exams unless you have made other arrangements
-* Students are encouraged to attend the section they registered for. However, you may attend the other section's lecture occasionally as needed.
+* In person attendance at lecture sections on Tuesdays and Thursdays is required; however, attendance will not be taken.
+
+* In person attendance is required for exams 
+
+* Students are encouraged to attend their registered lecture section; however, you may attend the other section's lecture occasionally as needed. Exams must be taken during the registered section. (Students will not have access to the exam outside of their section.)
 
 ## Lecture Recordings
 
 * Live Lectures will **not** be recorded. Recordings are not an alternative to attending class, and this class is not meant to be taken remotely.
-* Course content will generally be recorded as short videos and made available through Panopto in Canvas.
+* Supplementary course content may be recorded as short videos and made available through Panopto in Canvas.
 
 ## This Syllabus
 
