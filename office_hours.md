@@ -27,12 +27,11 @@ The most up-to-date Office Hours Schedule:
 
 **Location:** The Stacks (Thornton A-Wing)
 
-See the calendar listed on the [Canvas](https://canvas.its.virginia.edu/courses/131158) homepage for days and times:
-
-
-TA Office Hours will *not* be held on days without class (such as Fall Break, Election Day, etc.)
-
-## TA Office Hours Wait List
-
-To get help in TA office hours, join the queue using 
+**OH Queue:** To get help in TA office hours, join the queue using
 [ASCI](https://kytos02.cs.virginia.edu/asci)
+
+**Date and Time:** See the calendar below
+<iframe src="https://calendar.google.com/calendar/embed?src=eea99e37685787f85ca41d4ea4069ab88c1f0f59bbfebf7d30d75999c6bb57f6%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
+TA Office Hours will *not* be held on days without class (such as Spring Break, Snow Days, etc.)
+
