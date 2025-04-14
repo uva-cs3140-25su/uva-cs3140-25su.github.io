@@ -51,7 +51,7 @@ __Instructor:__ **Rich Nguyen**
 
 __Instructor:__ **Derrick Stone**
 
-<img src="https://media.licdn.com/dms/image/v2/C4E03AQEP_ZWoqNln2Q/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1564685499980?e=1742428800&v=beta&t=sZcnKO70cXV3EEMD1DHN4qBs6aRQvdlLnEevpdYBTf4" height="200" title="Photo" alt="A photo here">
+<img src="https://engineering.virginia.edu/sites/default/files/styles/square_xxsml/public/2024-01/Stone%2CDerrick2.webp?itok=2FfCXg4y" title="Photo of Derrick Stone" alt="Photo of Derrick Stone">
 
 * Email: [djs6d@virginia.edu](mailto:djs6d@virginia.edu)
 
