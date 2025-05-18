@@ -15,7 +15,7 @@ nav_order: 2
 
 # Basic Info
 CS 3140
-Spring 2025 Semester   
+Summer 2025 Semester   
 
 Course Website - [https://uva-cs3140-s25.github.io/](https://uva-cs3140-s25.github.io/)
 
@@ -31,30 +31,14 @@ Drive Folder:
 
 
 ## Lecture Sections
-* Section 1: Tuesdays and Thursdays @ 11:00 AM-12:15 PM in Olsson Hall, Room 120
-* Section 2: Tuesdays and Thursdays @ 2:00 PM - 3:15 PM in Warner Hall, Room 209
+* Section 1: Mon through Fri @ 10:30 AM-12:45 PM in Rice Hall, Room 340
 
 
 ## Staff Information
 **Prof. Rich Nguyen**
-* Mondays and Wednesdays 11 am to 12 pm on [Zoom](
-  https://virginia.zoom.us/j/93349649881?pwd=ysPPQT1WjeHGag0FNcRsyybYN6jd7p.1&from=addon
-  )
-* Tuesdays and Thursdays 3:00 pm to 4:00 pm in Rice 202
 
 Email: [nn4pj@virginia.edu](mailto:nn4pj@virginia.edu)      
 Website: [http://www.cs.virginia.edu/~nn4pj/](http://www.cs.virginia.edu/~nn4pj/)
-
-
-**Prof. Derrick Stone**
-* Tuesdays 3:30 pm - 4:30 pm in Rice 209
-* Thursdays 3:30 pm - 4:30 pm in Rice 209
-* OR by appointment
-
-* Email: [djs6d@virginia.edu](mailto:djs6d@virginia.edu)
-
-* Website: [https://engineering.virginia.edu/faculty/derrick-stone](https://engineering.virginia.edu/faculty/derrick-stone)
-
 
 # Course Description
 
@@ -136,23 +120,14 @@ Canvas has links to all other course material.
 
 ## Course Website
 
-This is the website that you are currently on. Here you can find:
-
-- Syllabus (you're looking at it!)
-- [Course Schedule](https://uva-cs3140-s25.github.io/schedule.html) - if the schedule changes, this is kept up to date
-- [Office Hours Schedule](https://uva-cs3140-s25.github.io/office_hours.html)
-
-The schedule and assignments information page will include links to 
+This is the website that you are currently on. The schedule and assignments information page will include links to 
 the drive folder for Lecture Notes, Slides, Assignment Write-ups,
 and Submission documents.
 
 ## Drive Folder
 
 The student Drive Folder contains:
-- All Lecture Notes 
-  - Announcements
-  - Slides
-  - Example Code
+- Example Code
 - Up-to-date Course Schedule
 - Assignment Information
   - Directions
@@ -166,7 +141,7 @@ the Schedule page on the Course Website.
 
 Online Coursepack @ [https://sde-coursepack.github.io/](http://sde-course.com/)
 
-There is no official textbook for the course that you need to purchase. Prof. McBurney
+There is no official textbook for the course that you need to purchase. Prof. Will McBurney
 is writing an "online textbook" at the URL above, which at the start of the semester is about ~70% completed
 
 If you would like to participate, you can clone the repository of the
@@ -266,9 +241,9 @@ _There is **no** grading rounding_.
 
 
 Grading in this class will be based one:
-* Homework Assignments (7) - 70%  
-	* 10% each for Homework 1 through 5
-	* 20% for Homework 6
+* Homework Assignments (4) - 70%  
+	* 15% each for Homework 1 through 3
+	* 25% for Homework 4
 * Quizzes (10) - 10%
 	* Must pass at least 8 quizzes for full credit
 * Mastery-based Assessments (4) - 20% (5% each) in lieu of exams
@@ -278,21 +253,17 @@ There might be some extra credit opportunities.
 
 ## Homework Assignments
 
-There will be 6 homework assignments. These assignments will be mostly Java programming
+There will be 4 homework assignments. These assignments will be mostly Java programming
 assignments. Each assignment is independent and doesn't require using any code you wrote
 from previous assignments. That said, homework assignments may reference previous assignments.
 
 Assignment purpose:
 * HW1 - Thinking about design and responding to change
-  * Note that this assignment will have 2 distinct parts
 * HW2 - Testing and clean code 
 * HW3 - Refactoring and Java Streams
-* HW4 - UML Class Diagrams, Three Tier Architecture, Testing with Mockito
-* HW5 - Databases
-* HW6 - Final project with Java GUI
+* HW4 - Final project with Java GUI
 
-On HW2 through HW5, you will be given starter code to work with. This starter code
-will be automatically added to your teams GitHub Repository when you begin the assignment. HW1 and HW6 will have no starter code.
+You will be given starter code to work with. This starter code will be automatically added to your teams GitHub Repository when you begin the assignment.
 
 **All assignments are intended to take several days to complete**. Starting on an assignment late
 will not earn any leniency in deadlines, grading, etc. Office Hours will become busier closer
@@ -300,7 +271,7 @@ to deadlines, so students should start early.
 
 ### Assignment Teams
 
-All assignments are designed to be done collaboratively. Assignments have a cap of 3 people.
+All assignments except HW2 are designed to be done collaboratively. Assignments have a cap of 3 people.
 Rules on assignment teams:
 
 1. You can only work with a specific person up to **3 assignments**. You may not work with someone on 4 or more assignments.
@@ -311,17 +282,6 @@ Rules on assignment teams:
 6. You are welcome to work alone or with a smaller group than suggested. However, the assignment requirements will be the same, regardless of group size. Individual programmers will be held to the same expectations as groups.
 7. The instruction staff will not put you on a team, nor will they find a team for you. You are responsible for forming your own teams.
 
-#### Team Declarations
-
-All teams must be declared at least **one week before the due date**. You may team up with other students in your section ONLY. To declare your team, you will complete an assignment on Gradescope called **"HWX - Team Declaration"** where X is the number of the assignment. The document simply requires the names and computing IDs of everyone on the team (as well as their Github name). Example:
-
-```text
-Aaron A Aaronson: abc2def - Aaron2xSon
-Jane Smith: df3ghi - JaneSmith12345
-Sarah Thomas: stu9xyz - ThisIsAGithubAccount
-```
-
-**Late team submissions will not be accepted for *ANY REASON WHATSOVER* **. If you miss the deadline, you *must* work as an individual! **No Exceptions for ANY REASON!**
 
 #### Team Concerns
 
@@ -367,7 +327,7 @@ you will get 80%). All members of an assignment team will get the same late pena
 
 **After 7 days, submissions will no longer be accepted.**
 
-Homework 6 will have a separate late policy - no late submissions for any reason. 
+Homework 4 will have a separate late policy - no late submissions for any reason. 
    1. This is in order to ensure:
       1. TAs have time to grade the final assignment
       2. Students have time to study for the final exam
@@ -480,8 +440,7 @@ In general, a second offense will *always* result in an F in the course and a re
 ## Quizzes
 
 There will be occasional quizzes in the class which are meant to ensure basic understanding of the course lecture material.
-Quizzes will be posted on Canvas and are multiple choice. Quizzes are graded in a pass/fail way. Any score >= 80% is considered a
-passing score will be treated as 100%, while any score less than 80% will not have the score changed. For example, if you get a 70% on the quiz, your score will be 70%. But if you get 80%, your score will be 100%.
+Quizzes will be posted on Canvas and are multiple choice. 
 
 **Quizzes can be taken up to 5 times** to achieve the target score. You will be able to see your total quiz score after submitting. However, you won't see specifically what you got right/wrong, or the correct answer until after the quiz closes.
 
@@ -544,7 +503,7 @@ to your final course grade, and your regrade request being declined.
 
 ## Attendance
 
-* In person attendance at lecture sections on Tuesdays and Thursdays is required; however, attendance will not be taken.
+* In person attendance at lecture section is required; however, attendance will not be taken.
 
 * In person attendance is required for exams 
 
