@@ -1,4 +1,4 @@
-# cs3140-sp25-website
+# cs3140-website
 
 
 Git repository for the class website.
